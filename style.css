@@ -35,6 +35,7 @@ footer{
 }
 
 .carousel-inner img{
-  margin-top: 0.9em;
+  margin: auto;
+  padding: auto;
 }
 
