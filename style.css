@@ -30,7 +30,7 @@ footer{
     justify-content: center;
 }
 .carousel-inner{
-    
+    padding-bottom: 25em;
     height: 50vh;   
 }
 
