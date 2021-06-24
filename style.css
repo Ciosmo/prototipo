@@ -26,10 +26,7 @@ footer{
     display: flex;
     justify-content: center;
 }
-.carousel-inner{
-    padding-bottom: 25em;
-    height: 60vh;   
-}
+
 
 
 
