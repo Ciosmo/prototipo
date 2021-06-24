@@ -18,6 +18,10 @@ footer{
 
   
 }
+.row{
+  display: flex;
+}
+
 
 #copyright{
     padding-top: 14em;
@@ -27,8 +31,10 @@ footer{
 }
 .carousel-inner{
     padding-bottom: 25em;
-    height: 50vh;
+    height: 50vh;   
+}
 
-    
+.carousel-inner img{
+  margin: auto;
 }
 
