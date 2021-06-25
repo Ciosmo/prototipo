@@ -32,6 +32,9 @@ footer{
 .carousel-item{
     height: 32rem;
 }
+.carousel-inner img{
+    margin: auto;
+}
 .estilo{
   margin-top: 3.5em;
     display: flex;
