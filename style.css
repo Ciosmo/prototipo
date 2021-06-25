@@ -29,11 +29,9 @@ footer{
     display: flex;
     justify-content: center;
 }
-.carousel-inner{
-    padding-bottom: 25em;
-    height: 50vh;   
+.carousel-item{
+    height: 32rem;
 }
-
 .estilo{
   margin-top: 3.5em;
     display: flex;
