@@ -74,9 +74,7 @@ label.error{
     justify-content: space-around;
 }
 
-.carrusel{
-  
-}
+
 .carousel-inner img{
  object-fit: cover;
   width: 100%;
