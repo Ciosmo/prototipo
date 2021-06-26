@@ -65,3 +65,11 @@ label.error{
     display: flex;
     flex-direction: column;
 }
+.cards{
+    width: 18rem;
+}
+.cartas{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
