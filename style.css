@@ -74,7 +74,13 @@ label.error{
     justify-content: space-around;
 }
 
-
+.texto{
+    font-family: 'Staatliches', cursive;
+    color: #fff;
+    text-align: center;
+    margin-top: 1em;
+    letter-spacing: 0.3rem;
+}
 .carousel-inner img{
  object-fit: cover;
   width: 100%;
