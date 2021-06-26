@@ -18,6 +18,7 @@ footer{
   background: #333;
   color: white;
   text-align: center;  
+
 }
 nav{
     margin-top: -1.6em;
@@ -28,7 +29,7 @@ nav{
 
 }
 .carousel-item{
-    height: 70em;
+    height: 40em !important;
 }
 
 .estilo{
